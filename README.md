@@ -1,6 +1,6 @@
 # Arromba cofre
 
-Jogo em React Native + Expo para o projeto final do 3º bimestre.
+Jogo em React Native de Eduarda e Emanuel
 
 ## Sobre
 
